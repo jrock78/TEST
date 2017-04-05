@@ -30,7 +30,7 @@ function postMessage() {
   };
 
   body = {
-    	02ad60745932a39b28d3444887 : botID,
+    	fetch.env : botID,
     wall : botResponse
   };
 
