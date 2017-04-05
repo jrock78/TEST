@@ -31,7 +31,7 @@ function postMessage() {
 
   body = {
     	fetch.env : botID,
-    wall : botResponse
+    TEN FEET HIGHER : botResponse
   };
 
   console.log('sending ' + botResponse + ' to ' + botID);
