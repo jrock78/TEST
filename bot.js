@@ -30,8 +30,8 @@ function postMessage() {
   };
 
   body = {
-    "bot_id" : botID,
-    "text" : botResponse
+    	02ad60745932a39b28d3444887 : botID,
+    wall : botResponse
   };
 
   console.log('sending ' + botResponse + ' to ' + botID);
